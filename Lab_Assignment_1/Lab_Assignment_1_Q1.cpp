@@ -166,3 +166,6 @@ int main()
 
     return 0;
 }
+
+
+// Q2.
