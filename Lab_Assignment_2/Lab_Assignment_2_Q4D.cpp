@@ -35,3 +35,17 @@ int main()
 
     return 0;
 }
+
+//(e) Write a program to convert a character from uppercase to lowercase
+
+int main()
+{
+    char ch;
+
+    cout << "Enter an uppercase character: ";
+    cin >> ch;
+
+    cout << "Lowercase character: " << char(tolower(ch));
+
+    return 0;
+}
